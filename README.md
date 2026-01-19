@@ -45,13 +45,14 @@ Verify:  git --version
 🔹 STEP 3: Clone repository
 
 git clone https://github.com/jagadeeshpagoti22/password-strength-analyzer.git
+
 cd password-strength-analyzer
 
 
 
 🔹 STEP 4: Install  Dependencies
 
-  npm install
+ command:    npm install
 
 
 🔹 STEP 5: Run the tool
