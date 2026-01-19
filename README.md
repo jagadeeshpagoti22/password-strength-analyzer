@@ -25,4 +25,6 @@ email / domain exposure in public data breaches using **Have I Been Pwned (HIBP)
 git clone https://github.com/jagadeeshpagoti22/password-strength-analyzer.git
 cd password-strength-analyzer
 
-
+### 2️⃣ Install dependencies
+```
+npm install
