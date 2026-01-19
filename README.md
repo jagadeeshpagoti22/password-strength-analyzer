@@ -7,6 +7,9 @@ email / domain exposure in public data breaches using **Have I Been Pwned (HIBP)
 <img width="1055" height="742" alt="image" src="https://github.com/user-attachments/assets/f7f776be-0a77-4bba-996d-8a4c76bcc3a9" />
 
 
+<img width="1011" height="545" alt="image" src="https://github.com/user-attachments/assets/81cae572-6b52-4090-952d-65e90dc23a98" />
+
+
 
 ## 🚀 Features
 
