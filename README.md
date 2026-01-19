@@ -4,6 +4,10 @@ An **enterprise-grade CLI security tool** to analyze password strength and check
 email / domain exposure in public data breaches using **Have I Been Pwned (HIBP)**.
 
 
+<img width="1055" height="742" alt="image" src="https://github.com/user-attachments/assets/f7f776be-0a77-4bba-996d-8a4c76bcc3a9" />
+
+
+
 ## 🚀 Features
 
 - ✅ Password strength analysis (zxcvbn)
