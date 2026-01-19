@@ -20,7 +20,32 @@ email / domain exposure in public data breaches using **Have I Been Pwned (HIBP)
 
 ## 📦 Installation
 
-### 1️⃣ Clone repository
-```bash
+### WINDOWS SETUP
+🔹 STEP 1:Install Node.js
+Open 👉 https://nodejs.org
+
+Download LTS version (18 or above)
+Install → Next → Next → Finish
+
+Verify: node -v
+        npm -v
+
+
+🔹 STEP 2: Istall Git
+
+Open 👉 https://git-scm.com
+
+Install with Default settings
+
+Verify:  git --version
+
+
+🔹 STEP 3: Clone repository
+
 git clone https://github.com/jagadeeshpagoti22/password-strength-analyzer.git
 cd password-strength-analyzer
+
+
+```bash
+🔹 STEP 4: Dependencies install cheyyi
+  npm install
