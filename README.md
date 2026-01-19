@@ -22,6 +22,7 @@ email / domain exposure in public data breaches using **Have I Been Pwned (HIBP)
 
 ### WINDOWS SETUP
 🔹 STEP 1:Install Node.js
+
 Open 👉 https://nodejs.org
 
 Download LTS version (18 or above)
@@ -31,7 +32,7 @@ Verify: node -v
         npm -v
 
 
-🔹 STEP 2: Istall Git
+🔹 STEP 2: Install Git
 
 Open 👉 https://git-scm.com
 
