@@ -71,3 +71,69 @@ Email + Password check --> node analyzer.js -e <email> -p <password>
 Help menu  -->  node analyzer.js -h
 
 
+### KALI LINUX SETUP
+
+STEP 1: Update system
+
+sudo apt update
+
+
+STEP 2: Install Node.js & npm
+
+sudo apt install -y nodejs npm
+
+Check: node -v
+
+npm -v
+
+STEP 3: Install Git (optional)
+
+sudo apt install -y git
+
+
+STEP 4: Go to project folder
+
+cd ~/password-strength-analyzer
+
+
+STEP 5: Install dependencies
+
+npm install
+
+
+STEP 7: Run the tool
+
+node analyzer.js -p <password>
+
+node analyzer.js -e <email>
+
+node analyzer.js -e <email> -p <password>
+
+node analyzer.js -h
+
+### Help menu
+
+Usage:
+
+  analyzer.js [options]
+
+Options:
+
+  -p <password>       Check password strength & breach
+  
+  -e <email>          Check email breach (HIBP)
+  
+  --out <file>        Save report (.txt / .json)
+  
+  -h, --help          Show help
+
+Examples:
+
+  analyzer.js -p MyPass@123
+  
+  analyzer.js -e test@gmail.com
+  
+  analyzer.js -e test@gmail.com -p MyPass@123
+  
+  analyzer.js -e test@gmail.com --out report.tx
+  
