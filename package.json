@@ -1,0 +1,11 @@
+{
+  "name": "password-strength-analyzer",
+  "version": "1.0.0",
+  "bin": "analyzer.js",
+  "pkg": {
+    "assets": [],
+    "targets": [
+      "node18-win-x64"
+    ]
+  }
+}
