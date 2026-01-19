@@ -48,6 +48,19 @@ git clone https://github.com/jagadeeshpagoti22/password-strength-analyzer.git
 cd password-strength-analyzer
 
 
-```bash
-🔹 STEP 4: Dependencies install cheyyi
+
+🔹 STEP 4: Install  Dependencies
+
   npm install
+
+
+🔹 STEP 5: Run the tool
+
+Commands:
+
+Password check -->  node analyzer.js -p <Yourpassword>
+Email check    -->   node analyzer.js -e <email>
+Email + Password check --> node analyzer.js -e <email> -p <password>
+Help menu  -->  node analyzer.js -h
+
+
