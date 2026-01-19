@@ -59,8 +59,14 @@ cd password-strength-analyzer
 Commands:
 
 Password check -->  node analyzer.js -p <Yourpassword>
+
+
 Email check    -->   node analyzer.js -e <email>
+
+
 Email + Password check --> node analyzer.js -e <email> -p <password>
+
+
 Help menu  -->  node analyzer.js -h
 
 
