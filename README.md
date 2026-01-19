@@ -29,7 +29,8 @@ Download LTS version (18 or above)
 Install → Next → Next → Finish
 
 Verify: node -v
-        npm -v
+
+npm -v
 
 
 🔹 STEP 2: Install Git
